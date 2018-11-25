@@ -1,0 +1,11 @@
+TITLE = "Jogo de Nim"       # Título do programa
+COLUMNS = 79                # Colunas do terminal
+ROWS = 24                   # Linhas do terminal
+COLOR_INIT = 0x0008         # Cores iniciais do terminal
+COLOR_DEFAULT = 0x001f      # Cores padrão do terminal
+COLOR_STRAWS = 0x001b       # Cores das linhas para exibição de palitos
+COLOR_ERROR = 0x004f        # Cores da linha de erro.
+COLOR_WIN = 0x00a0          # Cores da linha que exibe a mensagem de vitória
+COLOR_LOSE = 0x00cf         # Cores da linha que exibe a mensagem de derrota
+COLOR_SCORE_WIN = 0x001a    # Cores da linha de escore quando o usuário estiver vencendo
+COLOR_SCORE_LOSE = 0x001c   # Cores da linha de escore quando o usuário estiver perdendo
